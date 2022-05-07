@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project is a participation in Absher-thon. We proposed to use NLP techniques in analysing "كلنا أمن" App's data.
+This project is made as a participation in Absher-thon. We proposed to use NLP techniques in analysing "كلنا أمن" App's data.
 
 
 # Data Source:
