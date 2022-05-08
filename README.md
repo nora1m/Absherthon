@@ -10,14 +10,7 @@ This project is made as a participation in Absher-thon. We proposed to use NLP t
 The data was created to be similar to the app's data.
 
 
-# Data Description:
-
-Features | Description | Type | 
---- | --- | --- | 
-Seconds | 301 | 283 | 
-
-
 # Tools:
 
-Libraries : Pandas , NumPy , Matplotlib ,seaborn ,Scikit-learn , NTLK , ISRIStemmer .
+Libraries : Pandas , camel_tools , pyarabic ,farasa ,Scikit-learn.
 Technologys: Jupyter notebook to execute the code.
